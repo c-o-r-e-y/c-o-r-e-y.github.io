@@ -7,11 +7,11 @@
 [Stats](/sample_page)
 <img src="images/season-stats.png?raw=true"/>
 
-### 🗿
+### CJ9 X JR5
 
 <img src="images/doublesomethingiforgotthename.png?raw=true"/>
 
-### Depression
+### K DOT
 
 <img src="images/k-dot-cuh.jpeg?raw=true"/>
 
