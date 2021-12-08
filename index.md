@@ -13,6 +13,6 @@
 
 ### K DOT
 
-<img src="images/k-dot-cuh.jpeg?raw=true"/>
+<img src="images/k-dot-cuh.jpg?raw=true"/>
 
 ---
