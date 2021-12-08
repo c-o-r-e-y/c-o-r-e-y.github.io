@@ -13,6 +13,6 @@
 
 ### Depression
 
-<img src="images/photo oct 29, 8 25 39 pm.JPG?raw=true"/>
+<img src="images/k-dot-cuh.jpeg?raw=true"/>
 
 ---
