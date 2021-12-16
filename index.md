@@ -25,6 +25,6 @@
 
 ### G A Z E R
 
-<img src="images/tealorange.jpg?raw=true"/>
+<img src="images/tealorange.png?raw=true"/>
 
 ---
