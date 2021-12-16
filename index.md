@@ -16,7 +16,7 @@
 
 ### Retro CJ
 
-<img src="images/retro-cj.jpg?raw=true"/>
+<img src="images/retro-cj.png?raw=true"/>
 <img src="images/retro-cj2.jpg?raw=true"/>
 
 ### 3D CJ
